@@ -1,1 +1,4 @@
-print("Welcome to our collaborative program.")
+def main():
+    print("Welcome to our collaborative program.")
+
+main()
